@@ -1,0 +1,4 @@
+C:\Users\Misio\source\repos\Calculator Ultimate By Misio\Calculator Ultimate By Misio\x64\Debug\Calculator Ultimate By Misio.vcxproj.AssemblyReference.cache
+C:\Users\Misio\source\repos\Calculator Ultimate By Misio\Calculator Ultimate By Misio\x64\Debug\Calculator Ultimate By Misio.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Misio\source\repos\Calculator Ultimate By Misio\Calculator Ultimate By Misio\x64\Debug\CalculatorUltimateByMisio.MyForm.resources
+C:\Users\Misio\source\repos\Calculator Ultimate By Misio\Calculator Ultimate By Misio\x64\Debug\Calculator Ultimate By Misio.vcxproj.GenerateResource.cache

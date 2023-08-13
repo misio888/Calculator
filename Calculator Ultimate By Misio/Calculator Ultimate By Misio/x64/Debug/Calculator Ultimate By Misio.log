@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Misio\source\repos\Calculator Ultimate By Misio\Calculator Ultimate By Misio\MyForm.h(2350,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calculator Ultimate By Misio.vcxproj -> C:\Users\Misio\source\repos\Calculator Ultimate By Misio\x64\Debug\Calculator Ultimate By Misio.exe
